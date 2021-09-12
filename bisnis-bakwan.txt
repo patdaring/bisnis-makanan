@@ -1,5 +1,6 @@
 bakwan jagung
 bakwan sayur
-bakwan nangka
+  sayur wortel
+  sayur kol
 bakwan kentang
 bakwan daging
