@@ -1,6 +1,9 @@
 bakwan jagung
+  jagung sukabumi
+  jagung cianjur
 bakwan sayur
   sayur wortel
   sayur kol
 bakwan kentang
 bakwan daging
+bakwan mie
