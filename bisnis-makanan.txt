@@ -1,4 +1,7 @@
 pisang goreng
 bakwan
+  bakwan jagung
+  bakwan sosis kentang
+  bakwan sayur
 oncom goreng
-peucang
+mendoan
