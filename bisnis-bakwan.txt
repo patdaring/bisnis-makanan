@@ -2,3 +2,4 @@ bakwan jagung
 bakwan sayur
 bakwan nangka
 bakwan kentang
+bakwan daging
