@@ -1,8 +1,9 @@
 bakwan jagung
-  jangung cidahu
-  jagung ciraos
+  jagung sukabumi
+  jagung cianjur
 bakwan sayur
-bakwan nangka
+  sayur wortel
+  sayur kol
 bakwan kentang
 bakwan daging
 bakwan sosis
