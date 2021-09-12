@@ -6,4 +6,4 @@ bakwan sayur
   sayur kol
 bakwan kentang
 bakwan daging
-bakwan mie
+bakwan sosis
